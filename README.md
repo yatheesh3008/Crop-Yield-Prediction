@@ -40,6 +40,9 @@ Our approach of the project is
 - Deploying machine learning model
 - Evaluating the results 
 
+##Flow chart
+https://drive.google.com/file/d/1TZjE33oCiQnUlnRs0CHPGXcJjHoq7ht1/view?usp=drivesdk 
+
 
 ## Techstacks used 
  `ml` , `colab` 
