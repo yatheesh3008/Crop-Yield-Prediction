@@ -30,7 +30,7 @@ Farmers are facing problems in cultivating of crops. Some crops may fail and far
 ## About the project
 Our project uses Machine learning model for predicting crop yield. It predicts about crop yield and it helps farmers to pick better crop
 
-## Technical implemntaion 
+## Technical implementation 
 Our approach of the project is 
 - Data collection
 - Data preprocessing
